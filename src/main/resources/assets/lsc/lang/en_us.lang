@@ -1,5 +1,6 @@
 ##########################################
 ### Lost Eclipse ENGLISH Language File ###
+### Traduzido por ExPiriguety          ###
 ##########################################
 
 
@@ -10,64 +11,64 @@
 
 ### Items
 # Jewelry
-item.golden_ring.name=Golden Ring
-item.diamond_ring.name=Diamond Ring
-item.golden_amulet.name=Golden Amulet
-item.diamond_amulet.name=Diamond Amulet
+item.golden_ring.name=Anel de ouro
+item.diamond_ring.name=Anel de diamante
+item.golden_amulet.name=Amuleto de ouro
+item.diamond_amulet.name=Amuleto de diamante
 item.leather_sash.name=Leather Sash
 
 # Scrolls
-item.fireball_scroll.name=Fireball Scroll
-item.frostbite_scroll.name=Frostbite Scroll
+item.fireball_scroll.name=Scroll Bola de Fogo
+item.frostbite_scroll.name=Scroll Mordida Gelada
 item.minor_ethereal_scroll.name=Minor Ethereal Scroll
-item.firestorm_scroll.name=Firestorm Scroll
-item.blizzard_scroll.name=Blizzard Scroll
-item.discharge_scroll.name=Discharge Scroll
+item.firestorm_scroll.name=Scroll Tempestade de fogo
+item.blizzard_scroll.name=Scroll Nevasca
+item.discharge_scroll.name=Scroll Descarga
 item.major_ethereal_scroll.name=Major Ethereal Scroll
-item.invisibility_scroll.name=Invisibility Scroll
-item.void_scroll.name=Void Scroll
+item.invisibility_scroll.name=Scroll Invisibilidade
+item.void_scroll.name=Scroll Vazio
 
 # Misc
-item.corrupted_tower_key.name=Corrupted Tower Key
+item.corrupted_tower_key.name=Chave da Torre Corrompida
 
 
 
 ### Weapons
 # Melee
-item.wood_dagger.name=Wood Dagger
-item.wood_mace.name=Wood Mace
-item.stone_dagger.name=Stone Dagger
-item.stone_mace.name=Stone Mace
-item.gold_dagger.name=Gold Dagger
-item.gold_mace.name=Gold Mace
-item.iron_dagger.name=Iron Dagger
-item.iron_mace.name=Iron Mace
-item.diamond_dagger.name=Diamond Dagger
-item.diamond_mace.name=Diamond Mace
+item.wood_dagger.name=Adaga de Madeira
+item.wood_mace.name=Cajado de Madeira
+item.stone_dagger.name=Adaga de Pedra
+item.stone_mace.name=Cajado de Pedra
+item.gold_dagger.name=Adaga de Ouro
+item.gold_mace.name=Cajado de Ouro
+item.iron_dagger.name=Adaga de Ferro
+item.iron_mace.name=Cajado de Ferro
+item.diamond_dagger.name=Adaga de Diamante
+item.diamond_mace.name=Cajado de Diamante
 
 # Special Melee
-item.divine_rapier.name=Divine Rapier
-item.requiem.name=Requiem
-item.shadowfall.name=Shadowfall
-item.doomshadow.name=Doomshadow
-item.golden_pummel.name=Golden Pummel
+item.divine_rapier.name=Espada Divina
+item.requiem.name=Espada Poderosa
+item.shadowfall.name=Pequena Espada
+item.doomshadow.name=Cajado Sombrio
+item.golden_pummel.name=Cajado Dourado
 
-item.excalibur_rapier.name=Excalibur Rapier
+item.excalibur_rapier.name=Excalibur
 item.alakaslam.name=Alakaslam
-item.annihilation.name=Annihilation
+item.annihilation.name=Destruição
 
 # Physical Ranged
-item.golden_bow.name=Golden Bow
-item.iron_bow.name=Iron Bow
-item.diamond_bow.name=Diamond Bow
+item.golden_bow.name=Arco de Ouro
+item.iron_bow.name=Arco De Ferro
+item.diamond_bow.name=Arco de Diamante
 
 # Magical
-item.wooden_wand.name=Wooden Wand
-item.golden_wand.name=Golden Wand
-item.diamond_wand.name=Diamond Wand
-item.wooden_staff.name=Wooden Staff
-item.golden_staff.name=Golden Staff
-item.diamond_staff.name=Diamond Staff
+item.wooden_wand.name=Varinha de Madeira
+item.golden_wand.name=Varinha de Ouro
+item.diamond_wand.name=Varinha de Diamante
+item.wooden_staff.name=Bastao de Madeira
+item.golden_staff.name=Bastao de Ouro
+item.diamond_staff.name=Bastao de Diamante
 
 # Special Magical
 item.blazefury.name=Blazefury
@@ -84,47 +85,47 @@ item.visage_of_wizardry.name=Visage of Wizardry
 ##########################################
 
 ### Class Selection
-gui.class.title=Class Selection
-gui.class.info=Select a class to play as. Hover over each button for more information.
-gui.class.abilities=Abilities
+gui.class.title=Selecione sua Classe
+gui.class.info=Selecione uma Classe para jogar. Passe o mouse para mais informações.
+gui.class.abilities=Habilidades
 
-gui.class.warrior.title=Warrior
-gui.class.warrior.info=The Warrior is a very versatile class which primarily specializes in heavy weaponry and armor. Warriors are typically fairly tanky, but some Warriors could deal a decent amount of damage.
-gui.class.mage.title=Mage
-gui.class.mage.info=The Mage is the ultimate magical character which specializes in anything magical and typically lighter armor. Mages are very good damage dealers and boast an assortment of spells and other magical items to use.
-gui.class.hunter.title=Hunter
-gui.class.hunter.info=The Hunter is a fairly sneaky, powerful character which specializes in quick attack and speed to take out enemies. Hunters are very good with bows too, giving them solid options as melee or ranged characters.
+gui.class.warrior.title=Guerreiro
+gui.class.warrior.info=O Guerreiro é uma classe muito versátil que se especializa principalmente em armas pesadas e armaduras. Guerreiros são tipicamente tank, mas alguns guerreiros podem causar uma quantidade razoável de dano.
+gui.class.mage.title=Mago
+gui.class.mage.info=O Mago é o personagem mágico que se especializa em coisa mágica e tipicamente mais leve. Magos são muito bons em danos e possuem uma variedade de magias e outros itens mágicos para usar.
+gui.class.hunter.title=Caçador
+gui.class.hunter.info=O Caçador é um personagem bastante sorrateiro e poderoso que se especializa em ataque rápido e velocidade para derrotar os inimigos. Caçadores são muito bons com arcos também, personagem bom para corpo a corpo ou à distância, porém pouco resistente.
 
-gui.playerinfo.title=Player Information
-gui.playerinfo.class=Class
-gui.playerinfo.class.1=Warrior
-gui.playerinfo.class.2=Mage
-gui.playerinfo.class.3=Hunter
+gui.playerinfo.title=Player Informação
+gui.playerinfo.class=Classe
+gui.playerinfo.class.1=Guerreiro
+gui.playerinfo.class.2=Mago
+gui.playerinfo.class.3=Caçador
 gui.playerinfo.level=Level
-gui.playerinfo.experience=Experience
-gui.playerinfo.skillpoints=Skill Points
-gui.playerinfo.stats=Stats
-gui.playerinfo.stats.strength=Strength
-gui.playerinfo.stats.strength.info=Strength increases your physical strength, increasing melee damage and damage resistance.
-gui.playerinfo.stats.agility=Agility
-gui.playerinfo.stats.agility.info=Agility increases your movement speed and attack speed.
-gui.playerinfo.stats.dexterity=Dexterity
-gui.playerinfo.stats.dexterity.info=Dexterity increases your critical chance and critical damage, as well as increasing ranged damage.
-gui.playerinfo.stats.intelligence=Intelligence
-gui.playerinfo.stats.intelligence.info=Intelligence increases your magical power for both weapons and items.
-gui.playerinfo.stats.wisdom=Wisdom
-gui.playerinfo.stats.wisdom.info=Wisdom increases your mana as well as boosts mana regeneration.
-gui.playerinfo.stats.fortitude=Fortitude
-gui.playerinfo.stats.fortitude.info=Fortitude increases your health as well as boosts health regeneration.
-gui.playerinfo.bonuses=Bonuses
-gui.playerinfo.bonuses.playerdamage=Player Damage
-gui.playerinfo.bonuses.magicalpower=Magical Power
-gui.playerinfo.bonuses.attackspeed=Attack Speed
-gui.playerinfo.bonuses.armor=Armor
-gui.playerinfo.bonuses.toughness=Toughness
-gui.playerinfo.bonuses.critchance=Critical Chance
-gui.playerinfo.bonuses.critdamage=Critical Damage
-gui.playerinfo.bonuses.health=Health
+gui.playerinfo.experience=Experiença
+gui.playerinfo.skillpoints=Ponto de Habilidade
+gui.playerinfo.stats=Estatísticas
+gui.playerinfo.stats.strength=Força
+gui.playerinfo.stats.strength.info=Aumenta o dano corpo a corpo e a resistência ao dano.
+gui.playerinfo.stats.agility=Agilidade
+gui.playerinfo.stats.agility.info=Aumenta sua velocidade de movimento e velocidade de ataque.
+gui.playerinfo.stats.dexterity=Destreza
+gui.playerinfo.stats.dexterity.info=Aumenta sua chance crítica e dano crítico, bem como aumenta o dano à distância.
+gui.playerinfo.stats.intelligence=Inteligência
+gui.playerinfo.stats.intelligence.info=Aumenta seu poder mágico para armas e itens.
+gui.playerinfo.stats.wisdom=Sabedoria
+gui.playerinfo.stats.wisdom.info=Aumenta sua mana e aumenta a regeneração de mana.
+gui.playerinfo.stats.fortitude=Fortificação
+gui.playerinfo.stats.fortitude.info=Aumenta a sua saúde, bem como aumenta a regeneração da saúde.
+gui.playerinfo.bonuses=Bônus
+gui.playerinfo.bonuses.playerdamage=Dano do Jogador
+gui.playerinfo.bonuses.magicalpower=Poder Mágico
+gui.playerinfo.bonuses.attackspeed=Velocidade de Ataque
+gui.playerinfo.bonuses.armor=Armadura
+gui.playerinfo.bonuses.toughness=Dureza
+gui.playerinfo.bonuses.critchance=Chace de Crítico
+gui.playerinfo.bonuses.critdamage=Dano Crítico
+gui.playerinfo.bonuses.health=Vida
 gui.playerinfo.bonuses.hp5=HP5
 gui.playerinfo.bonuses.mana=Mana
 gui.playerinfo.bonuses.mp5=MP5
@@ -136,29 +137,29 @@ gui.playerinfo.bonuses.mp5=MP5
 ##########################################
 
 ### Blocks
-tile.dungeon_brick.name=Dungeon Brick
-tile.boss_door.name=Boss Door
+tile.dungeon_brick.name=Calabouço
+tile.boss_door.name=Porta do Chefe
 
-tile.common_loot_chest.name=Common Chest
-tile.uncommon_loot_chest.name=Uncommon Chest
-tile.rare_loot_chest.name=Rare Chest
-tile.epic_loot_chest.name=Epic Chest
-tile.legendary_loot_chest.name=Legendary Loot Chest
-tile.common_jar.name=Common Jar
-tile.uncommon_jar.name=Uncommon Jar
-tile.rare_jar.name=Rare Jar
-tile.epic_jar.name=Epic Jar
-tile.legendary_jar.name=Legendary Jar
-tile.common_barrel.name=Common Barrel
-tile.uncommon_barrel.name=Uncommon Barrel
-tile.rare_barrel.name=Rare Barrel
-tile.epic_barrel.name=Epic Barrel
-tile.legendary_barrel.name=Legendary Barrel
-tile.common_crate.name=Common Crate
-tile.uncommon_crate.name=Uncommon Crate
-tile.rare_crate.name=Rare Crate
-tile.epic_crate.name=Epic Crate
-tile.legendary_crate.name=Legendary Crate
+tile.common_loot_chest.name=Baú Comum
+tile.uncommon_loot_chest.name=Baú Incomum
+tile.rare_loot_chest.name=Baú Raro
+tile.epic_loot_chest.name=Baú Épico
+tile.legendary_loot_chest.name=Baú Lendário
+tile.common_jar.name=Jarro Comum
+tile.uncommon_jar.name=Jarro Incomum
+tile.rare_jar.name=Jarro Raro
+tile.epic_jar.name=Jarro Épico
+tile.legendary_jar.name=Jarro Lendário
+tile.common_barrel.name=Barril Comum
+tile.uncommon_barrel.name=Barril Incomum
+tile.rare_barrel.name=Barril Raro
+tile.epic_barrel.name=Barril Épico
+tile.legendary_barrel.name=Barril Lendário
+tile.common_crate.name=Caixa Comum
+tile.uncommon_crate.name=Caixa Incomum
+tile.rare_crate.name=Caixa Raro
+tile.epic_crate.name=Caixa Épico
+tile.legendary_crate.name=Caixa Lendário
 
 
 
@@ -166,15 +167,15 @@ tile.legendary_crate.name=Legendary Crate
 #                MONSTERS                #
 ##########################################
 
-### Common Monsters
-entity.barbarian.name=Barbarian
-entity.ghost.name=Ghost
-entity.mummy.name=Mummy
-entity.spectralknight.name=Spectral Knight
+### Mob Comum
+entity.barbarian.name=Barbaro
+entity.ghost.name=Fantasma
+entity.mummy.name=Mumia
+entity.spectralknight.name=Cavaleiro Espectral
 
 ### Uncommon Monsters
-entity.bandit.name=Bandit
-entity.banshee.name=Banshee
+entity.bandit.name=Bandito
+entity.banshee.name=Alma Penada
 
 ### Rare Monsters
 entity.golem.name=Golem
@@ -182,7 +183,7 @@ entity.golem.name=Golem
 ### Semi-Bosses
 
 ### Bosses
-entity.corruptedknight.name=Corrupted Knight
+entity.corruptedknight.name=Cavaleiro Corrumpido
 
 
 
